@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MovieNOW</string>
+    <string name="popular">Popular</string>
+    <string name="Error_message">Error please try again !</string>
+    <string name="no_title">NO TITLE</string>
+    <string name="release_date">RELEASE DATE</string>
+    <string name="rating">RATING</string>
+    <string name="links">LINKS</string>
+    <string name="overview">OVERVIEW</string>
+    <string name="thumbnail_image">Thumbnail Image</string>
+    <string name="top_rated">Top Rated</string>
+
+
+    <string name="selected_option">Selected</string>
+
+    <string name="preference_show_top_label">Top Rated</string>
+    <string name="preference_show_top_key" translatable="false">show_toprated</string>
+
+    <string name="preference_show_pop_label">Popular</string>
+    <string name="preference_show_pop_key" translatable="false">show_popular</string>
+
+
+    
+    <string name="preference_movie_choice_label">Movie Choice</string>
+    <string name="preference_top_label">Top Rated</string>
+    <string name="preference_pop_label">Popular</string>
+    <string name="preference_MyFav_label">My Favorite</string>
+
+
+    <string name="preference_movie_choice_value" translatable="false">movie_choice</string>
+    <string name="preference_top_value" translatable="false">top_rated</string>
+    <string name="preference_pop_value" translatable="false">popular</string>
+    <string name="preference_MyFav_value" translatable="false">my_favorite</string>
+    <string name="like_button">like</string>
+    <string name="background_image_description">Background Image</string>
+    <string name="movie_poster_discription">Movie Poster</string>
+    <string name="unlike_btn">unlike</string>
+    <string name="user_review_s_title">User Review(s)</string>
+    <string name="trailer_s_title">Trailer(s)</string>
+    <string name="back_ground_image_description">Back Ground Image</string>
+    <string name="movienow_by_icebergs">MovieNow by Icebergs</string>
+
+</resources>

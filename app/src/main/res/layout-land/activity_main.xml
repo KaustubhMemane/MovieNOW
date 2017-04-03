@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/black"
+    tools:context="com.kmema.android.movienow.MainActivity">
+
+        <ProgressBar
+            android:id="@+id/pbloadingIndicator"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:layout_gravity="center"
+            android:visibility="invisible"/>
+
+            <GridView
+                android:backgroundTint="@color/black"
+            android:id="@+id/gridView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:numColumns="4"
+            android:background="@color/white"
+            android:fadeScrollbars="true"
+            android:focusableInTouchMode="true">
+    </GridView>
+</LinearLayout>

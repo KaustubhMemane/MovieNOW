@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\MovieNOW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\MovieNOW\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\MovieNOW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\review_list_item.xml",
+        "source": "C:\\MovieNOW\\app\\src\\main\\res\\layout-sw600dp\\review_list_item.xml"
+    },
+    {
+        "merged": "C:\\MovieNOW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_main.xml",
+        "source": "C:\\MovieNOW\\app\\src\\main\\res\\layout-sw600dp\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\MovieNOW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\customimage_layout.xml",
+        "source": "C:\\MovieNOW\\app\\src\\main\\res\\layout-sw600dp\\customimage_layout.xml"
+    },
+    {
+        "merged": "C:\\MovieNOW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_settings.xml",
+        "source": "C:\\MovieNOW\\app\\src\\main\\res\\layout-sw600dp\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\MovieNOW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_child.xml",
+        "source": "C:\\MovieNOW\\app\\src\\main\\res\\layout-sw600dp\\activity_child.xml"
+    },
+    {
+        "merged": "C:\\MovieNOW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\video_list_item.xml",
+        "source": "C:\\MovieNOW\\app\\src\\main\\res\\layout-sw600dp\\video_list_item.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\MovieNOW\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_unlike.png",
+        "source": "C:\\MovieNOW\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_unlike.png"
+    },
+    {
+        "merged": "C:\\MovieNOW\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\MovieNOW\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\MovieNOW\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_pull_down.png",
+        "source": "C:\\MovieNOW\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_pull_down.png"
+    },
+    {
+        "merged": "C:\\MovieNOW\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_like.png",
+        "source": "C:\\MovieNOW\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_like.png"
+    }
+]

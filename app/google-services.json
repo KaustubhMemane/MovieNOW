@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "912793147355",
+    "firebase_url": "https://movienow-42f03.firebaseio.com",
+    "project_id": "movienow-42f03",
+    "storage_bucket": "movienow-42f03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912793147355:android:b70e9e509d61d2d5",
+        "android_client_info": {
+          "package_name": "com.kmema.android.movienow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912793147355-6vh4sninsb3st2h4ngc5llepq0ggq0dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjFApHk0PiRpazbfrqst6DjF0keSLo8bA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

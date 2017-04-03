@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\MovieNOW\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\review_list_item.xml",
+        "source": "C:\\MovieNOW\\app\\src\\main\\res\\layout-land\\review_list_item.xml"
+    },
+    {
+        "merged": "C:\\MovieNOW\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_settings.xml",
+        "source": "C:\\MovieNOW\\app\\src\\main\\res\\layout-land\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\MovieNOW\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\customimage_layout.xml",
+        "source": "C:\\MovieNOW\\app\\src\\main\\res\\layout-land\\customimage_layout.xml"
+    },
+    {
+        "merged": "C:\\MovieNOW\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_child.xml",
+        "source": "C:\\MovieNOW\\app\\src\\main\\res\\layout-land\\activity_child.xml"
+    },
+    {
+        "merged": "C:\\MovieNOW\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\video_list_item.xml",
+        "source": "C:\\MovieNOW\\app\\src\\main\\res\\layout-land\\video_list_item.xml"
+    },
+    {
+        "merged": "C:\\MovieNOW\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main.xml",
+        "source": "C:\\MovieNOW\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    }
+]
